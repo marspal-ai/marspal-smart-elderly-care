@@ -1,4 +1,4 @@
-# marspal-smart-elderly-care智慧养老
+# smart-elderly-care智慧养老
 
 #### 系统介绍
 火星先驱 智慧养老平台
